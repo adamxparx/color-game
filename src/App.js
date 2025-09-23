@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import BasicGrid, { ArrayGrid } from './Components/Grid';
+import BasicGrid from './Components/Grid';
 import { useState } from 'react';
 
 function App() {
