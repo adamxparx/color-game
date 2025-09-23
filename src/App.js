@@ -10,8 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      <ArrayGrid color={colorArr}/>
-      <BasicGrid colorArray={colorArr}/>
+      <BasicGrid color={colorArr}/>
     </div>
   );
 }
